@@ -1,0 +1,6 @@
+Left: Left
+Right: Right
+Up: Up
+Down: Down
+Pause: Escape
+Boss: Tab
